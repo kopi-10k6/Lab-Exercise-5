@@ -18,11 +18,10 @@
 7. **Create** at least two personas with demographics, goals, behaviors, pain points, and motivation.
 8. **Document** the findings and include the GitHub repository URL in the report.
 
-Absolutely 😄 Since your previous project is **Pixlora**, I’ll use **Pixlora Beauty E-commerce App** as Scenario 1, and a **Health Appointment App** as Scenario 2. This will make the answer suitable for a **UX lab record/report**.
 
 # UX Project Scenarios – Problem Statements, Research Methods & Personas
 
-## Scenario 1: Pixlora – Beauty E-Commerce App 💄🌸
+## Scenario 1: Pixlora – Beauty E-Commerce App 
 
 ### Project Description
 
@@ -130,7 +129,7 @@ Meera is a working professional with limited free time. She prefers online shopp
 
 ---
 
-# Scenario 2: Health Appointment Booking App 🏥
+# Scenario 2: Health Appointment Booking App 
 
 ### Project Description
 
